@@ -1,7 +1,7 @@
 About rb-liquid
 ===============
 
-Home: https://rubygems.orgs/gems/liquid
+Home: https://rubygems.org/gems/liquid
 
 Package license: MIT
 
