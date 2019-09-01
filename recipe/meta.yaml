@@ -1,5 +1,5 @@
 {% set name = "liquid" %}
-{% set version = "4.0.0" %}
+{% set version = "4.0.3" %}
 
 package:
   name: rb-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://rubygems.org/downloads/{{ name }}-{{ version }}.gem
-  sha256: 5ef4c157436096e6dac49f8b1edc0eb6c8f3b55fc8ffed5d1949a5ca9f04ca9d
+  sha256: 7e15a957fbeb424dec15b52311880524954ce6e384ba9171e21ff98f142c0f7e
 
 build:
   noarch: generic
